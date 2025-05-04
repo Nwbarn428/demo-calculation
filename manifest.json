@@ -1,0 +1,9 @@
+{
+  "background_color": "#ffffff",
+  "display": "standalone",
+  "lang": "en",
+  "name": "demo-calculations",
+  "short_name": "demo-calculations",
+  "start_url": "/?utm_source=web_app_manifest",
+  "orientation": "portrait"
+}

@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/demo-calculation/static/js/main.1f8495ac.js",
+    "static/js/145.2ac02ab3.js": "/demo-calculation/static/js/145.2ac02ab3.js",
+    "static/media/engineer.png": "/demo-calculation/static/media/engineer.942d6f4261ccf7b3ea7f.png",
+    "favicon.ico": "/demo-calculation/favicon.ico",
+    "index.html": "/demo-calculation/index.html",
+    "favicon-32.png": "/demo-calculation/favicon-32.png",
+    "favicon-16.png": "/demo-calculation/favicon-16.png",
+    "manifest.json": "/demo-calculation/manifest.json",
+    "serve.json": "/demo-calculation/serve.json",
+    "main.1f8495ac.js.map": "/demo-calculation/static/js/main.1f8495ac.js.map",
+    "145.2ac02ab3.js.map": "/demo-calculation/static/js/145.2ac02ab3.js.map"
+  },
+  "entrypoints": [
+    "static/js/145.2ac02ab3.js",
+    "static/js/main.1f8495ac.js"
+  ]
+}
