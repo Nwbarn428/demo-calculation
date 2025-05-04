@@ -28,5 +28,7 @@
     "@babel/core": "^7.20.0",
     "@expo/webpack-config": "^19.0.1"
   },
-  "private": true
+  "private": true,
+  "homepage": "https://nwbarn428.github.io/demo-calculation"
 }
+
