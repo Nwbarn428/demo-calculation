@@ -2,6 +2,7 @@
   "expo": {
     "name": "demo-calculations",
     "slug": "snack-55f8707c-d807-48eb-a535-9f3452588627",
+    "platforms": ["ios", "android", "web"],
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -23,6 +24,17 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "75afff5a-91c4-4d07-bb9d-1fcfd74c36de"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/75afff5a-91c4-4d07-bb9d-1fcfd74c36de"
     }
   }
 }
